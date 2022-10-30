@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.43f4a498.css",
-    "main.js": "/static/js/main.dfe1b3e9.js",
+    "main.css": "/static/css/main.f39612d6.css",
+    "main.js": "/static/js/main.90cf84d1.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/tech4goodhackathon.jpg": "/static/media/tech4goodhackathon.feaf26d145ad6514a9d3.jpg",
+    "static/media/Celonis-Logo-1.png": "/static/media/Celonis-Logo-1.fe5692568c666f2a2f46.png",
     "static/media/home-main.jpg": "/static/media/home-main.17912a047687150c737b.jpg",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/bmtwhu.png": "/static/media/bmtwhu.0fe8a5f0e8428e916526.png",
     "static/media/logo.png": "/static/media/logo.02db415efb05da978d33.png",
     "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.43f4a498.css.map": "/static/css/main.43f4a498.css.map",
-    "main.dfe1b3e9.js.map": "/static/js/main.dfe1b3e9.js.map",
+    "main.f39612d6.css.map": "/static/css/main.f39612d6.css.map",
+    "main.90cf84d1.js.map": "/static/js/main.90cf84d1.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43f4a498.css",
-    "static/js/main.dfe1b3e9.js"
+    "static/css/main.f39612d6.css",
+    "static/js/main.90cf84d1.js"
   ]
 }
